@@ -17,14 +17,14 @@
 <h3 align="center">👩‍💻 My Github Stats</h3>
 <div align="center">
   
-[![re-ag's GitHub stats](https://github-readme-stats.vercel.app/api?username=re-ag&show_icons=true&count_private=true)](https://github.com/re-ag/github-readme-stats)
+[![re-ag's GitHub stats](https://github-readme-stats.vercel.app/api?username=re-ag&show_icons=true&count_private=true&theme=dracula)](https://github.com/re-ag/github-readme-stats)
 </div>
 
 <h3 align="center">👀 Top Language </h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-ag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-ag&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7EB6&title_bg=%233B3B3B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF6074&title_bg=%2369B5C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
